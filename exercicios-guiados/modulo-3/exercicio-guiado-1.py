@@ -12,7 +12,7 @@ maior_numero_de_filhos = 0
 salarios = []
 numero_de_filhos = []
 
-numero_de_participantes = int(input("Digite o número de pessoas que participarão das pesquisa: "))
+numero_de_participantes = int(input("Digite o número de pessoas que participarão da pesquisa: "))
 
 indice = 0
 
