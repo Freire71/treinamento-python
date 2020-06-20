@@ -8,7 +8,7 @@
 
 # NÃO ALTERAR ============================================
 from random import choice
-comida = choice(['uva','caqui', 'bacon', 'filé', 'minhoca', 'aranha', 'leite', 'queijo', ''])
+comida = choice(['uva','caqui', 'bacon', 'filé', 'minhoca', 'aranha', 'leite', 'queijo'])
 # NÃO ALTERAR =============================================
 
 
