@@ -1,4 +1,4 @@
-# Com base nos conhecimentos de intervalos adquiridos nos slides anteriores sobre intervalos
+# Com base nos conhecimentos de intervalos adquiridos nos slides anteriores
 # Crie um programa que pede ao usuário 2 números
 # Sendo o primeiro número que definirá o intervalo inicial
 # E o segundo o intervalo final (valor não incluso)
