@@ -12,12 +12,12 @@
 
 # Adicione uma nova bebida no índice 2
 
-# Ordene a lista de amigos
+# Ordene a lista de amigos e imprima a mesma
 
-# Inverta a lista de bebidas
+# Inverta a lista de bebidas e imprima a mesma
 
 # Crie um laço que itera sobre as duas listas, imprimindo o que cada amigo irá trazer
 # Dessa forma o amigo de indice 0 será responsável por trazer a bebida de indice 0 e assim sucessivamente
 # Um exemplo: Josh irá trazer Vodka
 
-# Ao final esvazie a lista e imprima a mesma
+# Ao final esvazie as lista e imprima

@@ -1,6 +1,7 @@
 # Calculo do IMC
 # Para calcular o IMC pegamos o valor da peso e dividimos pelo valor da altura ao quadrado
 # Vamos criar um programa que pede para o usuario digitar o peso em kg e altura em metros
+# IMC = peso (em kg) / altura ** 2 (em metros)
 # Vamos calcular e imprimir o valor do IMC do usuário
 # Além disso, vamos imprimir em que faixa do IMC o usuário está. Abaixo estão todas as faixas do IMC
 #          Faixas do IMC

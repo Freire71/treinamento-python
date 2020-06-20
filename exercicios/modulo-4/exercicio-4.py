@@ -7,7 +7,7 @@
 a = [1, 2, 3, 4]
 b = [3, 4, 5, 6]
 
-# Dada a lista de nomes = ["Capitã Marvel", "Mulher Maravilha", "Feiticeira Escarlate"]
+# Dada a lista de heroinas = ["Capitã Marvel", "Mulher Maravilha", "Feiticeira Escarlate"]
 # Crie uma nova lista utilizando compreensão de listas
 # A nova lista deve apresentar todas as palavras ao contrário
 # Todas as palavras devem estar apenas com caracteres minúsculos
