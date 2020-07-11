@@ -1,5 +1,5 @@
 # Dada a lista de artistas abaixo
-# Itere sobre todos os eles, imprimindo o nome completo e a idade de cada um (de forma aproximada) 
+# Itere sobre todos os eles, imprimindo o nome completo e a idade de cada um (de forma aproximada)
 
 from datetime import date
 
@@ -12,3 +12,9 @@ artistas = [
     {"nome": "Justin", "sobrenome": "Timberlake", "data_nascimento": "31/03/1981"},
 ]
 
+for artista in artistas:
+  nome_completo = f"{artista['nome']} {artista['sobrenome']}" 
+  data_separada = artista["data_nascimento"].split("/")
+  ano = int(data_separada[2])
+  idade = data_hoje.year - ano
+  print(f"Nome: {nome_completo} - Idade: {idade} anos")
